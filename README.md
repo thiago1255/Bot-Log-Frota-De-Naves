@@ -10,7 +10,7 @@ Você pode encontrar os arquivos organizados em: Linguagem de programação - Li
 Existem 3 arquivos:
 - config.json (Onde devem estar todas as configurações necessarias para o bot funcionar.)
 - registro.js (Deve ser executado uma vez para salvar os comandos no servidor, usa-se `node registro.js`.)
-- bot.js (O arquivo do bot, deve estar em execução para o bot funcionar `node bot.js`.)
+- bot.js (O arquivo do bot, deve estar em execução para o bot funcionar, `node bot.js`.)
 
 Dependências:
 ```json
