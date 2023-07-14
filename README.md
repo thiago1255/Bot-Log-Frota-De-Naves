@@ -19,7 +19,7 @@ Dependências:
     "npm": "^9.7.1"
 }
 ```
-##Python:
+## Python:
 ---
 # In english:
 A simple Discord bot with the function of listing spaceships for MultiPlayer games, focusing on displaying the status of the ships.
